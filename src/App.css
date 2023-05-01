@@ -11,6 +11,7 @@
   justify-content: center;
   flex-direction: column;
   gap: 24px;
+  margin: 0 auto;
 }
 
 .container form {
@@ -49,7 +50,6 @@
 .container .product-details p {
   color: #616161;
   text-align: start;
-  max-width: 300px;
 }
 
 .container .product-details span {
@@ -73,5 +73,20 @@
 
   .product-details {
     max-width: 50%;
+  }
+}
+
+@media(min-width: 1080px) {
+  .container {
+    flex-direction: row;
+    padding: 24px;
+  }
+
+  .container form {
+    max-width: 600px;
+  }
+
+  .product-details {
+    max-width: 600px !important;
   }
 }
