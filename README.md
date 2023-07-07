@@ -51,7 +51,7 @@ This will launch the application in your default browser at `http://localhost:51
 
 6. Start the Node.js API
 
-- Clone the [API repository](https://github.com/guivahl/redis-dba).
+- Clone the [API repository](https://github.com/Fernanda-Kipper/email-service-backend).
 - Follow the instructions in the API's README to start the server.
 
 ## Contributing
