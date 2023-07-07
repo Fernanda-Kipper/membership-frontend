@@ -26,13 +26,13 @@ To run this project locally, you need to have the following installed:
 1. Clone the repository to your local machine
 
 ```bash
-    git clone https://github.com/Fernanda-Kipper/membership-frontend
+git clone https://github.com/Fernanda-Kipper/membership-frontend
 ```
 
 2. Navigate to the project's directory
 
 ```bash
-    cd registration-service
+cd membership-frontend
 ```
 
 3. Install the dependencies
@@ -43,7 +43,7 @@ npm install
 
 4. Start the application
 
-```bash 
+```bash
 npm run dev
 ```
 
@@ -59,4 +59,5 @@ This will launch the application in your default browser at `http://localhost:51
 Contributions are welcome! If you find any issues or have suggestions, please open an issue or submit a pull request in this repository.
 
 ## License
+
 This project is licensed under the [MIT License](./LICENSE).
